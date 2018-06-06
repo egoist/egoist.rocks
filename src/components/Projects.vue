@@ -44,8 +44,12 @@ export default {
   transition: transform .3s ease-in-out;
 }
 
-.project:not(:first-child) {
+.project:not(:nth-child(5n)) {
   margin-left: -1px;
+}
+
+.project:first-child {
+  margin-left: 0;
 }
 
 .project:hover {
