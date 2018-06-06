@@ -16,5 +16,11 @@
     "description": "Prevent Twitter from auto-converting URL and @mention, #hashtag into links.",
     "github": "egoist/unlinkable",
     "website": "https://unlinkable.egoist.rocks"
+  },
+  {
+    "name": "DevDocs Desktop",
+    "description": "Unofficial desktop app for devdocs.io",
+    "github": "egoist/devdocs-desktop",
+    "website": "devdocs.egoist.rocks"
   }
 ]
