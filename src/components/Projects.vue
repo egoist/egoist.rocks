@@ -94,5 +94,9 @@ export default {
   .project:hover {
     transform: scale(1);
   }
+
+  .project:not(:nth-child(5n)) {
+    margin-left: 0;
+  }
 }
 </style>
