@@ -19,18 +19,5 @@
     "github": "egoist/unlinkable",
     "website": "https://unlinkable.egoist.rocks",
     "keywords": ["twitter", "linkify", "web", "app"]
-  },
-  {
-    "name": "Vue windows",
-    "description": "Vue components for creating neat windows.",
-    "github": "egoist/vue-windows",
-    "website": "https://vue-windows.egoist.rocks",
-    "keywords": ["window", "component", "vue"]
-  },
-  {
-    "name": "Vue step indicator",
-    "description": "Simple step indicator for Vue.js",
-    "github": "egoist/vue-step-indicator",
-    "website": "https://vue-step-indicator.egoist.rocks"
   }
 ]
