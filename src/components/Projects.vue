@@ -90,5 +90,9 @@ export default {
   .project {
     width: 100%;
   }
+
+  .project:hover {
+    transform: scale(1);
+  }
 }
 </style>
