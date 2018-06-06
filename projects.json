@@ -21,6 +21,6 @@
     "name": "DevDocs Desktop",
     "description": "Unofficial desktop app for devdocs.io",
     "github": "egoist/devdocs-desktop",
-    "website": "devdocs.egoist.rocks"
+    "website": "https://devdocs.egoist.rocks"
   }
 ]
