@@ -1,0 +1,11 @@
+{
+  "name": "egoist.rocks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "poi": "^10.2.3",
+    "typeface-source-sans-pro": "^0.0.54",
+    "vue-feather-icons": "^4.7.1"
+  }
+}

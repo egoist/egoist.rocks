@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Evangelion Card",
+    "description": "Evangelion title card generator",
+    "github": "egoist/evangelion-card",
+    "website": "https://eva-card.egoist.rocks",
+    "keywords": ["eva", "demo", "web", "app"]
+  },
+  {
+    "name": "React vs Vue",
+    "description": "Which one will reach 100K stars first?",
+    "github": "egoist/react-vs-vue",
+    "website": "https://react-vs-vue.egoist.rocks",
+    "keywords": ["react", "vue", "fun", "github", "web"]
+  },
+  {
+    "name": "Unlinkable",
+    "description": "Prevent Twitter from auto-converting URL and @mention, #hashtag into links.",
+    "github": "egoist/unlinkable",
+    "website": "https://unlinkable.egoist.rocks",
+    "keywords": ["twitter", "linkify", "web", "app"]
+  },
+  {
+    "name": "Vue windows",
+    "description": "Vue components for creating neat windows.",
+    "github": "egoist/vue-windows",
+    "website": "https://vue-windows.egoist.rocks",
+    "keywords": ["window", "component", "vue"]
+  }
+]
